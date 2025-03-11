@@ -12,7 +12,7 @@ List all participants on the project.
 * [Dr. Ryan C. Johnson](https://awi.ua.edu/about/staff/ryan-johnson-ph-d/) - The University of Alabama
 * Scott Henderson - University of Washington
 * Savalan Naser Neisary	- University of Alabama
-* Akila Sampath (https://github.com/akilasampath5), University of Maryland Baltimore County, played a key role in this team effort by developing and implementing an AutoEncoder model. A significant part of Akila's contribution involved rigorous evaluation of the model's forecast capabilities. The training process and evaluation methodology are documented in (contributors/contributors_AutoEncoder_MLP/NSM_Example/training.ipynb)
+* Akila Sampath (https://github.com/akilasampath5), University of Maryland Baltimore County, played a key role in this team effort by developing and implementing an AutoEncoder model. A significant part of Akila's contribution involved rigorous evaluation of the model's forecast capabilities. The training process and evaluation methodology are documented in ([contributors/contributors_AutoEncoder_MLP/NSM_Example/training.ipynb](https://github.com/akilasampath5/Snow-Extrapolation/blob/main/contributors/contributors_AutoEncoder_MLP/NSM_Example/training.ipynb))
 * Preetika Kaur- University of Wyoming
 
 ## National-Snow-Model Summary
